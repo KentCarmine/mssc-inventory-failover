@@ -1,0 +1,4 @@
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\inventory-failover\src\main\java\guru\sfg\brewery\inventoryfailover\web\controllers\InventoryFailoverController.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\inventory-failover\src\main\java\guru\sfg\brewery\inventoryfailover\config\LocalDiscovery.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\inventory-failover\src\main\java\guru\sfg\brewery\inventoryfailover\InventoryFailoverApplication.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\inventory-failover\src\main\java\guru\sfg\brewery\model\BeerInventoryDto.java

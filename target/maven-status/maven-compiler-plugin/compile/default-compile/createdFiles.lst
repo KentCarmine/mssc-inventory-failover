@@ -1,0 +1,5 @@
+guru\sfg\brewery\inventoryfailover\config\LocalDiscovery.class
+guru\sfg\brewery\model\BeerInventoryDto$BeerInventoryDtoBuilder.class
+guru\sfg\brewery\model\BeerInventoryDto.class
+guru\sfg\brewery\inventoryfailover\InventoryFailoverApplication.class
+guru\sfg\brewery\inventoryfailover\web\controllers\InventoryFailoverController.class
